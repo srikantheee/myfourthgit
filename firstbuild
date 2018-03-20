@@ -1,2 +1,3 @@
 echo "hai welcome to jenkins"
 echo "second build"
+echo "its automatic from github to jenkins console output"
