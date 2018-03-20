@@ -1,2 +1,2 @@
 echo "hai welcome to jenkins"
- "second build"
+echo "second build"
